@@ -1,0 +1,23 @@
+{
+  "name": "loginapp",
+  "version": "1.0.0",
+  "description": "Login App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hasithaja/LoginApp.git"
+  },
+  "author": "Hasitha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hasithaja/LoginApp/issues"
+  },
+  "homepage": "https://github.com/Hasithaja/LoginApp#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^1.5.4"
+  }
+}
